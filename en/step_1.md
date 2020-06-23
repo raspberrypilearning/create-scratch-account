@@ -34,4 +34,4 @@
 
 - At some point you will need to go to your email and confirm your email account.
 
-![image showing prompt to confirm the email address](images/email.png)
+![image showing prompt to confirm the email address](images/confirm.png)
