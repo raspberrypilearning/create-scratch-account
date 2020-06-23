@@ -1,58 +1,37 @@
-## Introduction
+## Create a Scratch account
 
-Add project description here. What will learners be making?
+- Go to [scratch.mit.edu](https://scratch.mit.edu)
 
-### What you will make
+- Click on the **Join Scratch** option in the menu.
 
---- no-print ---
-Add instructions for using the embedded content here.
+![image of Scratch menu bar with Join Scratch highlighted](images/join.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+- Create a new username, and make sure it's not you real name. Then create a strong password, mixing characters, numbers and symbols. Then click on **Next**
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![image showing username and password fields filled in for the Scratch sign in](images/username.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+- Choose the country you live in from the drop down menu and then click on **Next**
 
-+ Describe hardware here
+![image showing country selection via the drop down menu](images/country.png)
 
-### Software
+- Select the month and year you were born
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![image showing selection of year and month born](images/age.png)
 
-### Downloads
+- Select your gender or, if you prefer, don't.
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+![image showing gender selection options](images/gender.png)
 
---- /collapse ---
+- Type in your email address, or the email address of a parent.
 
---- collapse ---
----
-title: What you will learn
----
+![image showing email address field filled in](images/email.png)
 
-+ Two or three learning objectives
-+ ...should go here
+- Click on **Create Your Account**
 
---- /collapse ---
+- Click on **Get Started**
 
---- collapse ---
----
-title: Additional information for educators
----
+![image showing final dialogue box with Get Started at the bottom](images/start.png)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+- At some point you will need to go to your email and confirm your email account.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
+![image showing prompt to confirm the email address](images/email.png)
