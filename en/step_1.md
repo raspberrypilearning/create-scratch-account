@@ -6,11 +6,11 @@
 
 ![image of Scratch menu bar with Join Scratch highlighted](images/join.png)
 
-- Create a new username, and make sure that it is not your real name. Then create a strong password, mixing characters, numbers, and symbols. Then click on **Next**.
+- Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
 
 ![image showing username and password fields filled in for the Scratch sign in](images/username.png)
 
-- Choose the country you live in from the drop-down menu and then click on **Next**.
+- Choose the country you live in from the drop-down menu, then click on **Next**.
 
 ![image showing country selection via the drop down menu](images/country.png)
 
@@ -32,6 +32,6 @@
 
 ![image showing final dialogue box with Get Started at the bottom](images/start.png)
 
-- At some point you will need to go to your email and confirm your email account.
+- At some point, you will need to go to your email inbox and confirm your email address.
 
 ![image showing prompt to confirm the email address](images/confirm.png)
