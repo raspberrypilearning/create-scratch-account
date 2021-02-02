@@ -18,7 +18,7 @@
 
 ![image showing selection of year and month born](images/age.png)
 
-- Select your gender or, if you prefer, don't.
+- If you like, select your gender.
 
 ![image showing gender selection options](images/gender.png)
 
