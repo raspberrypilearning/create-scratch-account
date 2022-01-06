@@ -1,37 +1,37 @@
-## Create a Scratch account
+## Een Scratch-account aanmaken
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu)
+- Ga naar [scratch.mit.edu](https://scratch.mit.edu)
 
-- Click on the **Join Scratch** option in the menu.
+- Klik op de **Word Scratcher** optie in het menu.
 
-![image of Scratch menu bar with Join Scratch highlighted](images/join.png)
+![afbeelding van Scratch-menubalk met Word Scratcher gemarkeerd](images/join.png)
 
-- Create a new username, and make sure it's not you real name. Then create a strong password, mixing characters, numbers and symbols. Then click on **Next**
+- Maak een nieuwe gebruikersnaam aan en zorg ervoor dat het niet je echte naam is. Maak vervolgens een sterk wachtwoord door tekens, cijfers en symbolen door elkaar te gebruiken. Klik vervolgens op **Volgende**
 
-![image showing username and password fields filled in for the Scratch sign in](images/username.png)
+![afbeelding met gebruikersnaam- en wachtwoordvelden die zijn ingevuld voor de Scratch-aanmelding](images/username.png)
 
-- Choose the country you live in from the drop down menu and then click on **Next**
+- Kies het land waarin je woont in het vervolgkeuzemenu en klik vervolgens op **Volgende**
 
-![image showing country selection via the drop down menu](images/country.png)
+![afbeelding met landselectie via het vervolgkeuzemenu](images/country.png)
 
-- Select the month and year you were born
+- Selecteer de maand en het jaar waarin je bent geboren
 
-![image showing selection of year and month born](images/age.png)
+![afbeelding met selectie van geboortejaar en maand](images/age.png)
 
-- Select your gender or, if you prefer, don't.
+- Selecteer je geslacht of, als je dat liever hebt, niet.
 
-![image showing gender selection options](images/gender.png)
+![afbeelding met opties voor geslachtsselectie](images/gender.png)
 
-- Type in your email address, or the email address of a parent.
+- Typ je e-mailadres of het e-mailadres van een ouder.
 
-![image showing email address field filled in](images/email.png)
+![afbeelding met ingevuld e-mailadresveld](images/email.png)
 
-- Click on **Create Your Account**
+- Klik op **Maak je account**
 
-- Click on **Get Started**
+- Klik op **Aan de slag**
 
-![image showing final dialogue box with Get Started at the bottom](images/start.png)
+![afbeelding met het laatste dialoogvenster met onderaan Aan de slag](images/start.png)
 
-- At some point you will need to go to your email and confirm your email account.
+- Je moet ook nog naar je e-mail gaan en je e-mailaccount bevestigen.
 
-![image showing prompt to confirm the email address](images/confirm.png)
+![afbeelding met link om je e-mailadres te bevestigen](images/confirm.png)
