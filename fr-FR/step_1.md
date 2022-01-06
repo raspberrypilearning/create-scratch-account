@@ -1,37 +1,37 @@
-## Create a Scratch account
+## Créer un compte Scratch
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu)
+- Rends-toi sur [scratch.mit.edu](https://scratch.mit.edu)
 
-- Click on the **Join Scratch** option in the menu.
+- Clique sur l'option **Rejoindre Scratch** dans le menu.
 
-![image of Scratch menu bar with Join Scratch highlighted](images/join.png)
+![image de la barre de menu Scratch avec Rejoindre Scratch en surligné](images/join.png)
 
-- Create a new username, and make sure it's not you real name. Then create a strong password, mixing characters, numbers and symbols. Then click on **Next**
+- Crée un nouveau nom d'utilisateur et assure-toi que ce n'est pas ton vrai nom. Ensuite, choisis un mot de passe fort, en mélangeant des caractères, des nombres et des symboles. Ensuite, clique sur **Suivant**
 
-![image showing username and password fields filled in for the Scratch sign in](images/username.png)
+![image montrant les champs de nom d'utilisateur et de mot de passe complétés pour la connexion à Scratch](images/username.png)
 
-- Choose the country you live in from the drop down menu and then click on **Next**
+- Choisis le pays dans lequel tu vis dans le menu déroulant, puis clique sur **Suivant**
 
-![image showing country selection via the drop down menu](images/country.png)
+![image montrant la sélection du pays via le menu déroulant](images/country.png)
 
-- Select the month and year you were born
+- Sélectionne le mois et l'année de ta naissance
 
-![image showing selection of year and month born](images/age.png)
+![image montrant la sélection de l'année et du mois de naissance](images/age.png)
 
-- Select your gender or, if you prefer, don't.
+- Choisis ton genre ou, si tu préfères, ne le fais pas.
 
-![image showing gender selection options](images/gender.png)
+![image montrant les options pour le choix du genre](images/gender.png)
 
-- Type in your email address, or the email address of a parent.
+- Saisis ton adresse email, ou l'adresse email d'un parent.
 
-![image showing email address field filled in](images/email.png)
+![image montrant le champ d'adresse email complété](images/email.png)
 
-- Click on **Create Your Account**
+- Clique sur **Créer votre compte**
 
-- Click on **Get Started**
+- Clique sur **Commencer**
 
-![image showing final dialogue box with Get Started at the bottom](images/start.png)
+![image montrant la boîte de dialogue finale avec Commencer au bas](images/start.png)
 
-- At some point you will need to go to your email and confirm your email account.
+- À un moment donné, tu devras accéder à ta messagerie et confirmer ton compte email.
 
-![image showing prompt to confirm the email address](images/confirm.png)
+![image montrant l'invitation à confirmer l'adresse email](images/confirm.png)
