@@ -1,37 +1,37 @@
-## Create a Scratch account
+## Crea una cuenta de Scratch
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu)
+- Ve a [scratch.mit.edu](https://scratch.mit.edu)
 
-- Click on the **Join Scratch** option in the menu.
+- Haz clic en la opción **Únete a Scratch** en la barra de menú.
 
-![image of Scratch menu bar with Join Scratch highlighted](images/join.png)
+![imagen de la barra de menú de Scratch con Únete a Scratch resaltado](images/join.png)
 
-- Create a new username, and make sure it's not you real name. Then create a strong password, mixing characters, numbers and symbols. Then click on **Next**
+- Crea un nuevo nombre de usuario (Create a username) y asegúrate de que no sea tu nombre real. Luego crea una contraseña segura, mezclando caracteres, números y símbolos. Luego haz clic en **Siguiente**
 
-![image showing username and password fields filled in for the Scratch sign in](images/username.png)
+![imagen que muestra los campos de nombre de usuario y contraseña completados para el inicio de sesión de Scratch](images/username.png)
 
-- Choose the country you live in from the drop down menu and then click on **Next**
+- Elige el país en el que vives en el menú desplegable y luego haz clic en **Siguiente**
 
-![image showing country selection via the drop down menu](images/country.png)
+![imagen que muestra la selección del país a través del menú desplegable](images/country.png)
 
-- Select the month and year you were born
+- Selecciona el mes y año en el que naciste
 
-![image showing selection of year and month born](images/age.png)
+![imagen que muestra la selección del año y mes de nacimiento](images/age.png)
 
-- Select your gender or, if you prefer, don't.
+- Selecciona tu género o, si así lo prefieres, no lo hagas (Prefer not to say).
 
-![image showing gender selection options](images/gender.png)
+![imagen que muestra las opciones de selección de género](images/gender.png)
 
-- Type in your email address, or the email address of a parent.
+- Escribe tu dirección de correo electrónico (email) o la dirección de correo electrónico de tu padre o madre.
 
-![image showing email address field filled in](images/email.png)
+![imagen que muestra el campo de dirección de correo electrónico completado](images/email.png)
 
-- Click on **Create Your Account**
+- Haz clic en **Create Your Account**
 
-- Click on **Get Started**
+- Haz clic en **Comienza**
 
-![image showing final dialogue box with Get Started at the bottom](images/start.png)
+![imagen que muestra el cuadro de diálogo final con Comienza en la parte inferior](images/start.png)
 
-- At some point you will need to go to your email and confirm your email account.
+- En algún momento, tendrás que acceder a tu correo electrónico y confirmar tu cuenta.
 
-![image showing prompt to confirm the email address](images/confirm.png)
+![imagen que muestra un mensaje para confirmar la dirección de correo electrónico](images/confirm.png)
