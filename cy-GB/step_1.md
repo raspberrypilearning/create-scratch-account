@@ -1,37 +1,37 @@
-## Create a Scratch account
+## Creu cyfrif Scratch
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu)
+- Cer i [scratch.mit.edu](https://scratch.mit.edu)
 
-- Click on the **Join Scratch** option in the menu.
+- Clicia ar y dewis **Ymuno â Scratch** yn y ddewislen.
 
-![image of Scratch menu bar with Join Scratch highlighted](images/join.png)
+![delwedd o far dewislen Scratch gyda Ymuno â Scratch wedi'i amlygu](images/join.png)
 
-- Create a new username, and make sure it's not you real name. Then create a strong password, mixing characters, numbers and symbols. Then click on **Next**
+- Crea enw defnyddiwr newydd, ond paid â defnyddio dy enw go iawn. Yna crea gyfrinair cryf, gan gymysgu nodau, rhifau a symbolau. Wedyn clicia ar **Nesaf**
 
-![image showing username and password fields filled in for the Scratch sign in](images/username.png)
+![delwedd yn dangos meysydd enw defnyddiwr a chyfrinair wedi'u llenwi ar gyfer rhyngwyneb mewngofnodi Scratch](images/username.png)
 
-- Choose the country you live in from the drop down menu and then click on **Next**
+- Dewisa'r wlad rwyt ti'n byw ynddi o'r gwymplen ac wedyn clicio ar **Nesaf**
 
-![image showing country selection via the drop down menu](images/country.png)
+![delwedd yn dangos dewis gwlad trwy'r gwymplen](images/country.png)
 
-- Select the month and year you were born
+- Dewisa'r mis a'r flwyddyn cest ti dy eni
 
-![image showing selection of year and month born](images/age.png)
+![delwedd yn dangos y broses o ddewis blwyddyn a mis geni](images/age.png)
 
-- Select your gender or, if you prefer, don't.
+- Dewisa dy rywedd neu, os oes well gen ti, paid â gwneud hynny.
 
-![image showing gender selection options](images/gender.png)
+![delwedd yn dangos opsiynau dewis rhywedd](images/gender.png)
 
-- Type in your email address, or the email address of a parent.
+- Teipia dy gyfeiriad e-bost, neu gyfeiriad e-bost rhiant.
 
-![image showing email address field filled in](images/email.png)
+![delwedd yn dangos maes cyfeiriad e-bost wedi'i gwblhau](images/email.png)
 
-- Click on **Create Your Account**
+- Cliciwch ar **Creu Eich Cyfrif**
 
-- Click on **Get Started**
+- Cliciwch ar **Dechrau Arni**
 
-![image showing final dialogue box with Get Started at the bottom](images/start.png)
+![delwedd yn dangos blwch deialog terfynol gyda Dechrau Arni ar y gwaelod](images/start.png)
 
-- At some point you will need to go to your email and confirm your email account.
+- Ar ryw bwynt bydd angen i ti fynd i dy e-bost a chadarnhau dy gyfrif e-bost.
 
-![image showing prompt to confirm the email address](images/confirm.png)
+![delwedd yn dangos neges annog i gadarnhau'r cyfeiriad e-bost](images/confirm.png)
