@@ -1,24 +1,24 @@
 ## Creu cyfrif Scratch
 
-- Cer i [scratch.mit.edu](https://scratch.mit.edu)
+- Go to [scratch.mit.edu](https://scratch.mit.edu).
 
-- Clicia ar y dewis **Ymuno â Scratch** yn y ddewislen.
+- Click on **Join Scratch** in the menu.
 
-![delwedd o far dewislen Scratch gyda Ymuno â Scratch wedi'i amlygu](images/join.png)
+![The Scratch menu bar.](images/join.png)
 
-- Crea enw defnyddiwr newydd, ond paid â defnyddio dy enw go iawn. Yna crea gyfrinair cryf, gan gymysgu nodau, rhifau a symbolau. Wedyn clicia ar **Nesaf**
+- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
 
-![delwedd yn dangos meysydd enw defnyddiwr a chyfrinair wedi'u llenwi ar gyfer rhyngwyneb mewngofnodi Scratch](images/username.png)
+![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
 
-- Dewisa'r wlad rwyt ti'n byw ynddi o'r gwymplen ac wedyn clicio ar **Nesaf**
+- Choose the country you live in from the drop-down menu, then click on **Next**.
 
-![delwedd yn dangos dewis gwlad trwy'r gwymplen](images/country.png)
+![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
 
-- Dewisa'r mis a'r flwyddyn cest ti dy eni
+- Select the month and year you were born. Then, click on **Next**
 
-![delwedd yn dangos y broses o ddewis blwyddyn a mis geni](images/age.png)
+![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
 
-- Dewisa dy rywedd neu, os oes well gen ti, paid â gwneud hynny.
+- If you like, select your gender.
 
 ![delwedd yn dangos opsiynau dewis rhywedd](images/gender.png)
 
@@ -26,12 +26,12 @@
 
 ![delwedd yn dangos maes cyfeiriad e-bost wedi'i gwblhau](images/email.png)
 
-- Cliciwch ar **Creu Eich Cyfrif**
+- Click on **Create Your Account**.
 
-- Cliciwch ar **Dechrau Arni**
+- Click on **Get Started**.
 
 ![delwedd yn dangos blwch deialog terfynol gyda Dechrau Arni ar y gwaelod](images/start.png)
 
-- Ar ryw bwynt bydd angen i ti fynd i dy e-bost a chadarnhau dy gyfrif e-bost.
+- At some point, you will need to go to your email inbox and confirm your email address.
 
 ![delwedd yn dangos neges annog i gadarnhau'r cyfeiriad e-bost](images/confirm.png)
