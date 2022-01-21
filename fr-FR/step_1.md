@@ -1,20 +1,20 @@
 ## Créer un compte Scratch
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu).
+- Rends-toi sur [scratch.mit.edu](https://scratch.mit.edu).
 
 - Click on **Join Scratch** in the menu.
 
 ![The Scratch menu bar.](images/join.png)
 
-- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
+- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Ensuite, clique sur **Suivant**.
 
 ![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
 
-- Choose the country you live in from the drop-down menu, then click on **Next**.
+- Choisis le pays dans lequel tu vis dans le menu déroulant, puis clique sur **Suivant**.
 
 ![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
 
-- Select the month and year you were born. Then, click on **Next**
+- Sélectionne le mois et l'année de ta naissance. Ensuite, clique sur **Suivant**
 
 ![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
 
@@ -26,9 +26,9 @@
 
 ![image montrant le champ d'adresse email complété](images/email.png)
 
-- Click on **Create Your Account**.
+- Clique sur **Créer votre compte**.
 
-- Click on **Get Started**.
+- Clique sur **Commencer**.
 
 ![image montrant la boîte de dialogue finale avec Commencer au bas](images/start.png)
 
