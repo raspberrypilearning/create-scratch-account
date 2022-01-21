@@ -1,24 +1,24 @@
 ## Create a Scratch account
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu)
+- Go to [scratch.mit.edu](https://scratch.mit.edu).
 
-- Click on the **Join Scratch** option in the menu.
+- Click on **Join Scratch** in the menu.
 
-![image of Scratch menu bar with Join Scratch highlighted](images/join.png)
+![The Scratch menu bar.](images/join.png)
 
-- Create a new username, and make sure it's not you real name. Then create a strong password, mixing characters, numbers and symbols. Then click on **Next**
+- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
 
-![image showing username and password fields filled in for the Scratch sign in](images/username.png)
+![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
 
-- Choose the country you live in from the drop down menu and then click on **Next**
+- Choose the country you live in from the drop-down menu, then click on **Next**.
 
-![image showing country selection via the drop down menu](images/country.png)
+![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
 
-- Select the month and year you were born
+- Select the month and year you were born. Then, click on **Next**
 
-![image showing selection of year and month born](images/age.png)
+![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
 
-- Select your gender or, if you prefer, don't.
+- If you like, select your gender.
 
 ![image showing gender selection options](images/gender.png)
 
@@ -26,12 +26,12 @@
 
 ![image showing email address field filled in](images/email.png)
 
-- Click on **Create Your Account**
+- Click on **Create Your Account**.
 
-- Click on **Get Started**
+- Click on **Get Started**.
 
 ![image showing final dialogue box with Get Started at the bottom](images/start.png)
 
-- At some point you will need to go to your email and confirm your email account.
+- At some point, you will need to go to your email inbox and confirm your email address.
 
 ![image showing prompt to confirm the email address](images/confirm.png)
