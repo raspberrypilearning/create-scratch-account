@@ -2,23 +2,23 @@
 
 - Rends-toi sur [scratch.mit.edu](https://scratch.mit.edu).
 
-- Click on **Join Scratch** in the menu.
+- Clique sur **Rejoindre Scratch** dans le menu.
 
-![The Scratch menu bar.](images/join.png)
+![La barre de menu Scratch.](images/join.png)
 
-- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Ensuite, clique sur **Suivant**.
+- Une boîte de dialogue **Rejoindre Scratch** va s'ouvrir. Crée un nouveau nom d'utilisateur et assure-toi que ce n'est pas ton vrai nom. Ensuite, choisis un mot de passe fort, en mélangeant des caractères, des nombres et des symboles. Ensuite, clique sur **Suivant**.
 
-![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
+![La première boîte de dialogue "Rejoindre Scratch", avec les champs nom d'utilisateur et mot de passe renseignés.](images/username.png)
 
 - Choisis le pays dans lequel tu vis dans le menu déroulant, puis clique sur **Suivant**.
 
-![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
+![Le 'Dans quel pays vivez-vous ?' boîte de dialogue, avec un menu déroulant.](images/country.png)
 
 - Sélectionne le mois et l'année de ta naissance. Ensuite, clique sur **Suivant**
 
-![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
+![Le 'Quand êtes-vous né?' boîte de dialogue, avec des menus déroulants pour le mois et l'année.](images/age.png)
 
-- If you like, select your gender.
+- Si tu le souhaites, sélectionne ton genre.
 
 ![image montrant les options pour le choix du genre](images/gender.png)
 
@@ -32,6 +32,6 @@
 
 ![image montrant la boîte de dialogue finale avec Commencer au bas](images/start.png)
 
-- At some point, you will need to go to your email inbox and confirm your email address.
+- À un moment donné, tu devras accéder à ta messagerie et confirmer ton compte email.
 
 ![image montrant l'invitation à confirmer l'adresse email](images/confirm.png)
