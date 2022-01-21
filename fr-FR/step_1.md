@@ -1,24 +1,24 @@
 ## Créer un compte Scratch
 
-- Rends-toi sur [scratch.mit.edu](https://scratch.mit.edu)
+- Go to [scratch.mit.edu](https://scratch.mit.edu).
 
-- Clique sur l'option **Rejoindre Scratch** dans le menu.
+- Click on **Join Scratch** in the menu.
 
-![image de la barre de menu Scratch avec Rejoindre Scratch en surligné](images/join.png)
+![The Scratch menu bar.](images/join.png)
 
-- Crée un nouveau nom d'utilisateur et assure-toi que ce n'est pas ton vrai nom. Ensuite, choisis un mot de passe fort, en mélangeant des caractères, des nombres et des symboles. Ensuite, clique sur **Suivant**
+- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
 
-![image montrant les champs de nom d'utilisateur et de mot de passe complétés pour la connexion à Scratch](images/username.png)
+![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
 
-- Choisis le pays dans lequel tu vis dans le menu déroulant, puis clique sur **Suivant**
+- Choose the country you live in from the drop-down menu, then click on **Next**.
 
-![image montrant la sélection du pays via le menu déroulant](images/country.png)
+![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
 
-- Sélectionne le mois et l'année de ta naissance
+- Select the month and year you were born. Then, click on **Next**
 
-![image montrant la sélection de l'année et du mois de naissance](images/age.png)
+![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
 
-- Choisis ton genre ou, si tu préfères, ne le fais pas.
+- If you like, select your gender.
 
 ![image montrant les options pour le choix du genre](images/gender.png)
 
@@ -26,12 +26,12 @@
 
 ![image montrant le champ d'adresse email complété](images/email.png)
 
-- Clique sur **Créer votre compte**
+- Click on **Create Your Account**.
 
-- Clique sur **Commencer**
+- Click on **Get Started**.
 
 ![image montrant la boîte de dialogue finale avec Commencer au bas](images/start.png)
 
-- À un moment donné, tu devras accéder à ta messagerie et confirmer ton compte email.
+- At some point, you will need to go to your email inbox and confirm your email address.
 
 ![image montrant l'invitation à confirmer l'adresse email](images/confirm.png)
