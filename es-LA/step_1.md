@@ -4,21 +4,21 @@
 
 - Haz clic en la opción **Únete a Scratch** en la barra de menú.
 
-![The Scratch menu bar.](images/join.png)
+![La barra de menú de Scratch.](images/join.png)
 
-- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Luego crea una contraseña segura, mezclando caracteres, números y símbolos. Luego haz clic en **Siguiente**.
+- Se abrirá un cuadro de diálogo **Únete a Scratch**. Crea un nuevo nombre de usuario (Create a username) y asegúrate de que no sea tu nombre real. Luego crea una contraseña segura, mezclando caracteres, números y símbolos. Luego haz clic en **Siguiente**.
 
-![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
+![El primer cuadro de diálogo 'Únete a Scratch', con los campos de nombre de usuario y contraseña completados.](images/username.png)
 
 - Elige el país en el que vives en el menú desplegable y luego haz clic en **Siguiente**.
 
-![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
+![El cuadro de diálogo '¿En qué país vives?' (What country do you live in?), con un menú desplegable.](images/country.png)
 
 - Selecciona el mes y año en el que naciste. Luego haz clic en **Siguiente**
 
-![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
+![El cuadro de diálogo '¿Cuándo naciste?' (When were you born?), con menús desplegables para el mes y el año.](images/age.png)
 
-- If you like, select your gender.
+- Si lo deseas, selecciona tu género.
 
 ![imagen que muestra las opciones de selección de género](images/gender.png)
 
