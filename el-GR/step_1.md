@@ -30,7 +30,7 @@
 
 - Click on **Get Started**.
 
-![image showing final dialogue box with Get Started at the bottom](images/start.png)
+![εικόνα που δείχνει το τελικό πλαίσιο διαλόγου με το Ξεκινήστε στο κάτω μέρος](images/start.png)
 
 - At some point, you will need to go to your email inbox and confirm your email address.
 
