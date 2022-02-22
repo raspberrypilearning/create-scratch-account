@@ -1,37 +1,37 @@
 ## Create a Scratch account
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu).
+- [scratch.mit.edu](https://scratch.mit.edu) पर जाएं।
 
-- Click on **Join Scratch** in the menu.
+- मेन्यू में **Join Scratch** पर क्लिक करें।
 
-![The Scratch menu bar.](images/join.png)
+![Scratch मेनू बार।](images/join.png)
 
-- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
+- एक **Join Scratch** डायलॉग बॉक्स खुलेगा। एक नया यूजरनेम बनाएं, और सुनिश्चित करें कि यह आपका वास्तविक नाम नहीं है। फिर, अक्षरों, संख्याओं और प्रतीकों के मिश्रण के साथ एक मजबूत पासवर्ड बनाएं। फिर **Next** पर क्लिक करें।
 
-![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
+![पहला 'Join Scratch' डायलॉग बॉक्स, जिसमें यूजरनेम और पासवर्ड फील्ड भरे हुए हैं।](images/username.png)
 
-- Choose the country you live in from the drop-down menu, then click on **Next**.
+- ड्रॉप-डाउन मेनू से वह देश चुनें जिसमें आप रहते हैं, फिर **Next** पर क्लिक करें।
 
-![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
+!['What country do you live in?' एक ड्रॉप-डाउन मेनू के साथ डायलाग बॉक्स।](images/country.png)
 
-- Select the month and year you were born. Then, click on **Next**
+- आप जिस महीने और साल में पैदा हुए थे, उसे चुनें। फिर, **Next** पर क्लिक करें।
 
-![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
+!['When were you born?' डायलाग बॉक्स, महीने और वर्ष के लिए ड्रॉप डाउन मेन्यू के साथ।](images/age.png)
 
-- If you like, select your gender.
+- यदि आप चाहें, तो अपने लिंग का चयन करें।
 
-![image showing gender selection options](images/gender.png)
+![लिंग चयन विकल्प दिखाने वाली छवि](images/gender.png)
 
-- Type in your email address, or the email address of a parent.
+- अपना ईमेल पता, या माता-पिता का ईमेल पता टाइप करें।
 
-![image showing email address field filled in](images/email.png)
+![भरी हुई ईमेल पता फ़ील्ड दिखाने वाली छवि](images/email.png)
 
-- Click on **Create Your Account**.
+- **Create Your Account** पर क्लिक करें।
 
-- Click on **Get Started**.
+- **Get Started** पर क्लिक करें।
 
 ![image showing final dialogue box with Get Started at the bottom](images/start.png)
 
-- At some point, you will need to go to your email inbox and confirm your email address.
+- किसी बिंदु पर, आपको अपने ईमेल इनबॉक्स में जाना होगा और अपने ईमेल एड्रेस की पुष्टि करनी होगी।
 
-![image showing prompt to confirm the email address](images/confirm.png)
+![छवि ई-मेल एड्रेस की पुष्टि करने के लिए संकेत दिखा रही है](images/confirm.png)
