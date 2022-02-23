@@ -22,7 +22,7 @@
 
 ![image showing gender selection options](images/gender.png)
 
-- Type in your email address, or the email address of a parent.
+- ನಿಮ್ಮ ಇ-ಮೇಲ್‌ ಅಡ್ರೆಸ್‌, ಅಥವಾ ನಿಮ್ಮ ಪೋಷಕರ ಇ-ಮೇಲ್‌ ಅಡ್ರೆಸ್‌ ಟೈಪ್‌ ಮಾಡಿ.
 
 ![image showing email address field filled in](images/email.png)
 
