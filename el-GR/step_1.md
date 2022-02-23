@@ -1,37 +1,37 @@
-## Create a Scratch account
+## Δημιούργησε έναν λογαριασμό Scratch
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu).
+- Πήγαινε στο [scratch.mit.edu](https://scratch.mit.edu).
 
-- Click on **Join Scratch** in the menu.
+- Κάνε κλικ στην επιλογή **Εγγραφή στο Scratch** στο μενού.
 
-![The Scratch menu bar.](images/join.png)
+![Η γραμμή μενού Scratch.](images/join.png)
 
-- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
+- Ένα παράθυρο διαλόγου **Εγγραφή στο Scratch** θα ανοίξει. Δημιούργησε ένα νέο όνομα χρήστη και βεβαιώσου ότι δεν είναι το πραγματικό σου όνομα. Στη συνέχεια, δημιούργησε έναν ισχυρό κωδικό πρόσβασης, χρησιμοποιώντας ένα συνδυασμό χαρακτήρων, αριθμών και συμβόλων. Κάνε κλικ στο **Επόμενο**.
 
-![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
+![Το πρώτο παράθυρο διαλόγου "Εγγραφή στο Scratch", με συμπληρωμένα τα πεδία ονόματος χρήστη και κωδικού πρόσβασης.](images/username.png)
 
-- Choose the country you live in from the drop-down menu, then click on **Next**.
+- Επίλεξε τη χώρα στην οποία ζείς από το αναπτυσσόμενο μενού και, στη συνέχεια, κάνε κλικ στο **Επόμενο**.
 
-![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
+![Το παράθυρο διαλόγου "Σε ποια χώρα ζεις;", με ένα αναπτυσσόμενο μενού.](images/country.png)
 
-- Select the month and year you were born. Then, click on **Next**
+- Επίλεξε τον μήνα και το έτος που γεννήθηκες. Κάνε κλικ στο **Επόμενο**.
 
-![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
+![Το παράθυρο διαλόγου "Πότε γεννήθηκες;", με αναπτυσσόμενα μενού για το μήνα και το έτος.](images/age.png)
 
-- If you like, select your gender.
+- Αν θέλεις, επίλεξε το φύλο σου.
 
-![image showing gender selection options](images/gender.png)
+![εικόνα που δείχνει επιλογή φύλου](images/gender.png)
 
-- Type in your email address, or the email address of a parent.
+- Πληκτρολόγησε τη διεύθυνση email σου ή τη διεύθυνση email ενός γονέα.
 
-![image showing email address field filled in](images/email.png)
+![εικόνα που δείχνει συμπληρωμένο το πεδίο διεύθυνσης email](images/email.png)
 
-- Click on **Create Your Account**.
+- Κάνε κλικ στο **Δημιούργησε τον λογαριασμό σου**.
 
-- Click on **Get Started**.
+- Κάνε κλικ στο **Ξεκινήστε**.
 
 ![εικόνα που δείχνει το τελικό πλαίσιο διαλόγου με το Ξεκινήστε στο κάτω μέρος](images/start.png)
 
-- At some point, you will need to go to your email inbox and confirm your email address.
+- Κάποια στιγμή θα χρειαστεί να μεταβείς στο email σου και να επιβεβαιώσεις τον λογαριασμό email σου.
 
-![image showing prompt to confirm the email address](images/confirm.png)
+![εικόνα που προτρέπει για επιβεβαίωση της διεύθυνσης email](images/confirm.png)
