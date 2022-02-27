@@ -1,37 +1,37 @@
-## Create a Scratch account
+## قم بإنشاء حساب Scratch
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu).
+- أذهب إلى [scratch.mit.edu](https://scratch.mit.edu).
 
-- Click on **Join Scratch** in the menu.
+- انقر فوق الخيار **انضم الى سكراتش** في القائمة.
 
-![The Scratch menu bar.](images/join.png)
+![شريط قائمة سكراتش.](images/join.png)
 
-- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
+- سيفتح مربع حوار **انضم الى سكراتش**. أنشئ اسم مستخدم جديدًا وتأكد من أنه ليس اسمك الحقيقي. ثم أنشئ كلمة مرور قوية، تتكون من مزيج بين الأحرف والأرقام والرموز. ثم انقر فوق **التالي**.
 
-![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
+![مربع الحوار الأول "انضم إلى سكراتش" ، مع ملء حقلي اسم المستخدم وكلمة المرور.](images/username.png)
 
-- Choose the country you live in from the drop-down menu, then click on **Next**.
+- اختر البلد الذي تعيش فيه من القائمة المنسدلة ثم انقر فوق **التالي**.
 
-![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
+![القائمة المنسدلة "في أي بلد تعيش؟".](images/country.png)
 
-- Select the month and year you were born. Then, click on **Next**
+- حدد الشهر والسنة التي ولدت فيها. ثم انقر فوق **التالي**
 
-![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
+![مربع الحوار "متى ولدت؟"مع القوائم المنسدلة للشهر والسنة.](images/age.png)
 
-- If you like, select your gender.
+- إذا كنت ترغب في ذلك ، حدد جنسك.
 
-![image showing gender selection options](images/gender.png)
+![تظهر الصورة خيارات اختيار الجنس](images/gender.png)
 
-- Type in your email address, or the email address of a parent.
+- اكتب عنوان بريدك الإلكتروني أو عنوان البريد الإلكتروني لأحد الوالدين.
 
-![image showing email address field filled in](images/email.png)
+![تظهر الصورة ملء حقل عنوان البريد الإلكتروني](images/email.png)
 
-- Click on **Create Your Account**.
+- انقر فوق **أنشيء حسابك**.
 
-- Click on **Get Started**.
+- انقر على **Get Started**.
 
-![image showing final dialogue box with Get Started at the bottom](images/start.png)
+![تظهر الصورة مربع الحوار النهائي مع البدء في الجزء السفلي](images/start.png)
 
-- At some point, you will need to go to your email inbox and confirm your email address.
+- في مرحلة ما، ستحتاج إلى الانتقال إلى بريدك الإلكتروني وتأكيد حساب بريدك الإلكتروني.
 
-![image showing prompt to confirm the email address](images/confirm.png)
+![تظهر الصورة تأكيد عنوان البريد الإلكتروني](images/confirm.png)
