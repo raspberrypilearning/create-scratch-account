@@ -1,4 +1,4 @@
-## Create a Scratch account
+## Scratch अकाउंट बनाएं
 
 - [scratch.mit.edu](https://scratch.mit.edu) पर जाएं।
 
@@ -30,7 +30,7 @@
 
 - **Get Started** पर क्लिक करें।
 
-![image showing final dialogue box with Get Started at the bottom](images/start.png)
+![अंतिम डायलाग बॉक्स के साथ नीचे की ओर Get Started दिखाने वाली छवि](images/start.png)
 
 - किसी बिंदु पर, आपको अपने ईमेल इनबॉक्स में जाना होगा और अपने ईमेल एड्रेस की पुष्टि करनी होगी।
 
