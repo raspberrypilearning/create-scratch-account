@@ -1,37 +1,37 @@
-## Create a Scratch account
+## Scratch ఖాతాను సృష్టించండి
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu).
+- [scratch.mit.edu](https://scratch.mit.edu) కి వెళ్లండి.
 
-- Click on **Join Scratch** in the menu.
+- మెనులో **Join Scratch** పై క్లిక్ చేయండి.
 
-![The Scratch menu bar.](images/join.png)
+![Scratch మెను బార్.](images/join.png)
 
-- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
+- **Join Scratch** డైలాగ్ బాక్స్ తెరవబడుతుంది. కొత్త యూజర్ ను సృష్టించండి మరియు అది మీ అసలు పేరు కాదని నిర్ధారించుకోండి. ఆపై, అక్షరాలు, సంఖ్యలు మరియు చిహ్నాల మిశ్రమంతో బలమైన పాస్‌వర్డ్‌ను సృష్టించండి. తరువాత, **Next**పై క్లిక్ చేయండి.
 
-![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
+![మొదటి 'Join Scratch' డైలాగ్ బాక్స్, యూజర్ పేరు మరియు పాస్‌వర్డ్ ఫీల్డ్‌లు పూరించబడ్డాయి.](images/username.png)
 
-- Choose the country you live in from the drop-down menu, then click on **Next**.
+- డ్రాప్-డౌన్ మెను నుండి మీరు నివసిస్తున్న దేశాన్ని ఎంచుకుని, ఆపై **Next**పై క్లిక్ చేయండి.
 
-![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
+!['What country do you live in?' డైలాగ్ బాక్స్, డ్రాప్-డౌన్ మెనుతో.](images/country.png)
 
-- Select the month and year you were born. Then, click on **Next**
+- మీరు పుట్టిన నెల మరియు సంవత్సరాన్ని ఎంచుకోండి. తరువాత, **Next**పై క్లిక్ చేయండి
 
-![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
+!['When were you born?' డైలాగ్ బాక్స్, నెల మరియు సంవత్సరానికి డ్రాప్-డౌన్ మెనులతో.](images/age.png)
 
-- If you like, select your gender.
+- మీకు ఇష్టమైతే, మీ జెండర్ ను ఎంచుకోండి.
 
-![image showing gender selection options](images/gender.png)
+![జెండర్ ఎంపిక ఎంపికలను చూపుతున్న చిత్రం](images/gender.png)
 
-- Type in your email address, or the email address of a parent.
+- మీ ఇమెయిల్ చిరునామా లేదా తల్లిదండ్రుల ఇమెయిల్ చిరునామాను టైప్ చేయండి.
 
-![image showing email address field filled in](images/email.png)
+![ఇమెయిల్ చిరునామా ఫీల్డ్ నిండినట్లు చూపుతున్న చిత్రం](images/email.png)
 
-- Click on **Create Your Account**.
+- **Create Your Account** పై క్లిక్ చేయండి.
 
-- Click on **Get Started**.
+- **Get Started** పై క్లిక్ చేయండి.
 
-![image showing final dialogue box with Get Started at the bottom](images/start.png)
+![దిగువన Get started డైలాగ్ బాక్స్‌ని చూపుతున్న చిత్రం](images/start.png)
 
-- At some point, you will need to go to your email inbox and confirm your email address.
+- ఏదో ఒక సమయంలో, మీరు మీ ఇమెయిల్ ఇన్‌బాక్స్‌కి వెళ్లి మీ ఇమెయిల్ చిరునామాను నిర్ధారించాలి.
 
-![image showing prompt to confirm the email address](images/confirm.png)
+![ఇమెయిల్ చిరునామాను నిర్ధారించమని ప్రాంప్ట్‌ని చూపుతున్న చిత్రం](images/confirm.png)
