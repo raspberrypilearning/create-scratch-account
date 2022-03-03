@@ -1,37 +1,37 @@
-## Create a Scratch account
+## Scratch ಖಾತೆಯನ್ನು ರಚಿಸಿ
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu).
+- [scratch.mit.edu](https://scratch.mit.edu) ಗೆ ಹೋಗಿ.
 
-- Click on **Join Scratch** in the menu.
+- ಮೆನುನಲ್ಲಿ **Join Scratch** ಆಯ್ಕೆಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
-![The Scratch menu bar.](images/join.png)
+![Scratch ಮೆನು ಬಾರ್.](images/join.png)
 
-- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
+- **Join Scratch** ಡೈಲಾಗ್‌ ಪೆಟ್ಟಿಗೆ ತೆರೆಯುತ್ತದೆ. ಹೊಸ ಯೂಸರ್‌ನೇಮ್‌ ರಚಿಸಿ ಮತ್ತು ಅದು ನಿಮ್ಮ ನಿಜವಾದ ಹೆಸರಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ನಂತರ ಕ್ಯಾರಕ್ಟರ್‌ಗಳು, ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಸಿಂಬಲ್‌ಗಳನ್ನು ಮಿಶ್ರಮಾಡಿ ಬಲಿಷ್ಠ ಪಾಸ್‌ವರ್ಡ್‌ ರಚಿಸಿ. ನಂತರ **Next** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ
 
-![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
+![ಯೂಸರ್‌ನೇಮ್‌ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್‌ ಕ್ಷೇತ್ರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿರುವ ಮೊದಲನೆಯ 'Join Scratch' ಡೈಲಾಗ್‌ ಪೆಟ್ಟಿಗೆ.](images/username.png)
 
-- Choose the country you live in from the drop-down menu, then click on **Next**.
+- ಡ್ರಾಪ್ ಡೌನ್‌ ಮೆನುನಿಂದ ನೀವು ವಾಸಿಸುವ ದೇಶವನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ ಮತ್ತು ನಂತರ **Next** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ
 
-![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
+!['What country do you live in?' ಡ್ರಾಪ್-ಡೌನ್ ಮೆನುವಿನೊಂದಿಗೆ ಡೈಲಾಗ್ ಪೆಟ್ಟಿಗೆ.](images/country.png)
 
-- Select the month and year you were born. Then, click on **Next**
+- ನೀವು ಹುಟ್ಟಿರುವ ತಿಂಗಳು ಮತ್ತು ವರ್ಷವನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ ನಂತರ **Next** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ
 
-![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
+!['When were you born?' ಡೈಲಾಗ್‌ ಪೆಟ್ಟಿಗೆ, ತಿಂಗಳು ಮತ್ತು ವರ್ಷಕ್ಕೆ ಡ್ರಾಪ್-ಡೌನ್ ಮೆನುಗಳೊಂದಿಗೆ.](images/age.png)
 
-- If you like, select your gender.
+- ನೀವು ಬಯಸಿದರೆ, ನಿಮ್ಮ ಲಿಂಗವನ್ನು ಆಯ್ಕೆಮಾಡಿ.
 
-![image showing gender selection options](images/gender.png)
+![ಲಿಂಗ ಆಯ್ಕೆಯ ಆಯ್ಕೆಗಳನ್ನು ತೋರಿಸುವ ಚಿತ್ರ](images/gender.png)
 
 - ನಿಮ್ಮ ಇ-ಮೇಲ್‌ ಅಡ್ರೆಸ್‌, ಅಥವಾ ನಿಮ್ಮ ಪೋಷಕರ ಇ-ಮೇಲ್‌ ಅಡ್ರೆಸ್‌ ಟೈಪ್‌ ಮಾಡಿ.
 
-![image showing email address field filled in](images/email.png)
+![ಭರ್ತಿ ಮಾಡಿರುವ ಇರ್ಮೇಲ್ ವಿಳಾಸ ಕ್ಷೇತ್ರವನ್ನು ತೋರಿಸುವ ಚಿತ್ರವು](images/email.png)
 
-- Click on **Create Your Account**.
+- **Create Your Account** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ
 
-- Click on **Get Started**.
+- **Get Started** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ
 
-![image showing final dialogue box with Get Started at the bottom](images/start.png)
+![ಕೆಳಗೆ Get Started ನೊಂದಿಗೆ ಅಂತಿಮ ಡೈಲಾಗ್‌ ಪೆಟ್ಟಿಗೆಯನ್ನು ತೋರಿಸುವ ಚಿತ್ರ](images/start.png)
 
-- At some point, you will need to go to your email inbox and confirm your email address.
+- ಸದ್ಯದಲ್ಲಿ ಯಾವಾಗಲಾದರೂ ನೀವು ನಿಮ್ಮ ಇ-ಮೇಲ್‌ಗೆ ಹೋಗಿ ನಿಮ್ಮ ಇ-ಮೇಲ್‌ ಖಾತೆಯನ್ನು ದೃಢೀಕರಿಸಬೇಕು.
 
-![image showing prompt to confirm the email address](images/confirm.png)
+![ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಖಚಿತಪಡಿಸಲು ಪ್ರಾಂಪ್ಟ್ ಅನ್ನು ತೋರಿಸುವ ಚಿತ್ರ](images/confirm.png)
