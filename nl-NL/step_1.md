@@ -6,7 +6,7 @@
 
 ![afbeelding van Scratch-menubalk met Word Scratcher gemarkeerd](images/join.png)
 
-- Maak een nieuwe gebruikersnaam aan en zorg ervoor dat het niet je echte naam is. Maak vervolgens een sterk wachtwoord door tekens, cijfers en symbolen door elkaar te gebruiken. Klik vervolgens op **Volgende**
+- Een **Word Scratcher**-dialoogvenster wordt geopend. Maak een nieuwe gebruikersnaam aan en zorg ervoor dat het niet je echte naam is. Maak vervolgens een sterk wachtwoord door tekens, cijfers en symbolen door elkaar te gebruiken. Klik vervolgens op **Volgende**.
 
 ![afbeelding met gebruikersnaam- en wachtwoordvelden die zijn ingevuld voor de Scratch-aanmelding](images/username.png)
 
@@ -14,7 +14,7 @@
 
 ![afbeelding met landselectie via het vervolgkeuzemenu](images/country.png)
 
-- Selecteer de maand en het jaar waarin je bent geboren
+- Selecteer de maand en het jaar waarin je bent geboren. Klik vervolgens op **Volgende**
 
 ![afbeelding met selectie van geboortejaar en maand](images/age.png)
 
