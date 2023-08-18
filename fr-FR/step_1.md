@@ -6,7 +6,7 @@
 
 ![La barre de menu Scratch.](images/join.png)
 
-- Une boîte de dialogue **Rejoindre Scratch** va s'ouvrir. Crée un nouveau nom d'utilisateur et assure-toi que ce n'est pas ton vrai nom. Ensuite, choisis un mot de passe fort, en mélangeant des caractères, des nombres et des symboles. Ensuite, clique sur **Suivant**.
+- Une boîte de dialogue **Rejoindre Scratch** s'ouvre. Crée un nouveau nom d'utilisateur et assure-toi que ce n'est pas ton vrai nom. Ensuite, choisis un mot de passe fort, en mélangeant des caractères, des nombres et des symboles. Ensuite, clique sur **Suivant**.
 
 ![La première boîte de dialogue "Rejoindre Scratch", avec les champs nom d'utilisateur et mot de passe renseignés.](images/username.png)
 
@@ -32,6 +32,6 @@
 
 ![image montrant la boîte de dialogue finale avec Commencer au bas](images/start.png)
 
-- À un moment donné, tu devras accéder à ta messagerie et confirmer ton compte email.
+- À un moment donné, tu devras accéder à ta messagerie et confirmer ton adresse e-mail.
 
 ![image montrant l'invitation à confirmer l'adresse email](images/confirm.png)
