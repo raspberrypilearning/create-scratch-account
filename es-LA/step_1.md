@@ -6,7 +6,7 @@
 
 ![La barra de menú de Scratch.](images/join.png)
 
-- Se abrirá un cuadro de diálogo **Únete a Scratch**. Crea un nuevo nombre de usuario (Create a username) y asegúrate de que no sea tu nombre real. Luego crea una contraseña segura, mezclando caracteres, números y símbolos. Luego haz clic en **Siguiente**.
+- Se abrirá un cuadro de diálogo **Únete a Scratch**. Crea un nuevo nombre de usuario y asegúrate de que no sea tu nombre real. Luego crea una contraseña segura, mezclando caracteres, números y símbolos. Luego haz clic en **Siguiente**.
 
 ![El primer cuadro de diálogo 'Únete a Scratch', con los campos de nombre de usuario y contraseña completados.](images/username.png)
 
@@ -22,11 +22,11 @@
 
 ![imagen que muestra las opciones de selección de género](images/gender.png)
 
-- Escribe tu dirección de correo electrónico (email) o la dirección de correo electrónico de tu padre o madre.
+- Escribe tu dirección de correo electrónico (email) o la de tu padre o madre.
 
 ![imagen que muestra el campo de dirección de correo electrónico completado](images/email.png)
 
-- Haz clic en **Create Your Account**.
+- Haz clic en **Crea Tu Cuenta**.
 
 - Haz clic en **Comienza**.
 
