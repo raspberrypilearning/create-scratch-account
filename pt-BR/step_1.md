@@ -1,37 +1,37 @@
-## Create a Scratch account
+## Crie uma conta Scratch
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu).
+- Acesse [scratch.mit.edu](https://scratch.mit.edu).
 
-- Click on **Join Scratch** in the menu.
+- Clique em **Inscreva-se** no menu.
 
-![The Scratch menu bar.](images/join.png)
+![A barra de menu do Scratch.](images/join.png)
 
-- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
+- Uma caixa de diálogo **Inscreva-se** será aberta. Crie um novo nome de usuário e certifique-se de que não seja seu nome verdadeiro. Em seguida, crie uma senha forte, com uma mistura de caracteres, números e símbolos. Em seguida, clique em **Próximo**.
 
-![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
+![A primeira caixa de diálogo 'Inscreva-se', com os campos de nome de usuário e senha preenchidos.](images/username.png)
 
-- Choose the country you live in from the drop-down menu, then click on **Next**.
+- Escolha o país em que você mora no menu suspenso e clique em **Próximo**.
 
-![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
+![A pergunta 'Em que país você mora?' caixa de diálogo, com um menu suspenso.](images/country.png)
 
-- Select the month and year you were born. Then, click on **Next**
+- Selecione o mês e o ano em que você nasceu. Em seguida, clique em **Próximo**
 
-![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
+![O 'Quando você nasceu?' caixa de diálogo, com menus suspensos para o mês e o ano.](images/age.png)
 
-- If you like, select your gender.
+- Se desejar, selecione seu gênero.
 
-![image showing gender selection options](images/gender.png)
+![imagem mostrando opções de seleção de gênero](images/gender.png)
 
-- Type in your email address, or the email address of a parent.
+- Digite seu endereço de e-mail ou o endereço de e-mail de um dos seus pais.
 
-![image showing email address field filled in](images/email.png)
+![imagem mostrando o campo de endereço de e-mail preenchido](images/email.png)
 
-- Click on **Create Your Account**.
+- Clique em **Crie sua conta**.
 
-- Click on **Get Started**.
+- Clique em **Começar**.
 
-![image showing final dialogue box with Get Started at the bottom](images/start.png)
+![imagem mostrando a caixa de diálogo final com Primeiros passos na parte inferior](images/start.png)
 
-- At some point, you will need to go to your email inbox and confirm your email address.
+- Em algum momento, você precisará ir até sua caixa de entrada de e-mail e confirmar seu endereço de e-mail.
 
-![image showing prompt to confirm the email address](images/confirm.png)
+![imagem mostrando solicitação para confirmar o endereço de e-mail](images/confirm.png)
