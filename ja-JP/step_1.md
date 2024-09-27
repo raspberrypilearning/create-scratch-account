@@ -1,37 +1,37 @@
-## Create a Scratch account
+## Scratchアカウントを作成しよう
 
-- Go to [scratch.mit.edu](https://scratch.mit.edu).
+- [Scratch.mit.edu](https://scratch.mit.edu)にアクセス。
 
-- Click on **Join Scratch** in the menu.
+- メニューの **「Scratchに参加しよう」** をクリック。
 
-![The Scratch menu bar.](images/join.png)
+![Scratchメニューバー](images/join.png)
 
-- A **Join Scratch** dialog box will open. Create a new username, and make sure that it is not your real name. Then, create a strong password, with a mix of characters, numbers, and symbols. Then, click on **Next**.
+- **「Scratchに参加しよう」** というダイアログ ボックスが開きます。 新しいユーザー名を作成しましょう。本名は絶対に使わないでね。 次に、文字、数字、記号を組み合わせた強力なパスワードを作成します。 そして **「次へ」**をクリックします。
 
-![The first 'Join Scratch' dialog box, with the username and password fields filled in.](images/username.png)
+![ユーザー名とパスワードが入力済の「スクラッチに参加」という最初のダイアログボックス。](images/username.png)
 
-- Choose the country you live in from the drop-down menu, then click on **Next**.
+- ドロップダウン メニューから住んでいる国を選択し、 **「次へ」**をクリックします。
 
-![The 'What country do you live in?' dialog box, with a drop-down menu.](images/country.png)
+![ドロップダウンメニューのある「どこの国に住んでいますか？」というダイアログボックス。](images/country.png)
 
-- Select the month and year you were born. Then, click on **Next**
+- 生まれた月と年を選択してください。 そして **「次へ」**をクリックします。
 
-![The 'When were you born?' dialog box, with drop-down menus for the month and year.](images/age.png)
+![月と年のドロップダウンメニューを備えた「いつ生まれましたか？」というダイアログボックス。](images/age.png)
 
-- If you like, select your gender.
+- もしよければ性別を選択してください。
 
-![image showing gender selection options](images/gender.png)
+![性別の選択オプションを示す画像](images/gender.png)
 
-- Type in your email address, or the email address of a parent.
+- 自分のメールアドレス、またはおうちの方のメールアドレスを入力します。
 
-![image showing email address field filled in](images/email.png)
+![メールアドレス欄に入力されたメールアドレスを示す画像](images/email.png)
 
-- Click on **Create Your Account**.
+- **「アカウントを作成する」**をクリックします。
 
-- Click on **Get Started**.
+- **「はじめよう」**をクリックします。
 
-![image showing final dialogue box with Get Started at the bottom](images/start.png)
+![下の方に「はじめよう」がある最後のダイアログボックスを示す画像](images/start.png)
 
-- At some point, you will need to go to your email inbox and confirm your email address.
+- その後に、メールの受信トレイからメールアドレスを認証してください。
 
-![image showing prompt to confirm the email address](images/confirm.png)
+![メールアドレスを確認するプロンプトを示す画像](images/confirm.png)
